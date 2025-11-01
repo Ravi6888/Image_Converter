@@ -1,4 +1,4 @@
-<h1 align="center">Lossless Image Compressor & Converter</h1>
+<h1 align="center">Lossless Image Converter</h1>
 
 <p align="center">
   <b>A simple Python GUI application to convert and compress images without quality loss.</b><br>
